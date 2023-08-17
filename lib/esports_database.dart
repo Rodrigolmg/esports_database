@@ -1,8 +1,6 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
-library ;
+library esports_database;
 
-export 'src/esports_database_base.dart';
+export 'src/init/db_init.dart';
+export 'src/tables/table.dart';
 
 // TODO: Export any libraries intended for clients of this package.
